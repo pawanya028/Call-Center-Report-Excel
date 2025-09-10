@@ -90,7 +90,8 @@ Interactive Dashboard Design → combined visuals, KPIs, and slicers for user-fr
 **📸 Dashboard Snapshot**
 
 Here’s a preview of the final dashboard:
-<img width="1504" height="660" alt="image" src="https://github.com/user-attachments/assets/4039376a-17e9-4383-9bbc-8aa001ad0ca3" />
+<img width="1504" height="662" alt="image" src="https://github.com/user-attachments/assets/54d5289f-e01a-4331-b316-549225ff1b34" />
+
 
 
 (If the image doesn’t load, open the /images/ folder in this repo.)
