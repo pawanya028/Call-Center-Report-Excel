@@ -94,4 +94,4 @@ Here’s a preview of the final dashboard:
 
 📧 Pawanya28@gmail.com
 
-🔗 LinkedIn Profile
+🔗 www.linkedin.com/in/pawan-yadav-b59826383
