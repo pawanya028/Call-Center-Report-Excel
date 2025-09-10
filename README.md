@@ -1,10 +1,12 @@
 **📊 Call Center Report (Excel Project)**
-****📝 Project Overview**
+
+**📝 Project Overview**
 
 This project is an Excel dashboard analyzing call center performance for different representatives, locations, and customer segments.
 The dashboard provides insights into call volumes, revenue, average duration, customer satisfaction ratings, and gender-based trends.
 
 The goal was to transform raw call log data into meaningful business insights using Excel’s advanced features.
+
 
 **📂 Dataset**
 
@@ -23,6 +25,7 @@ The dataset includes call center records with the following fields:
 **Gender**– Male/Female of the caller
 
 **Revenue Generated (₹)** – Amount earned from the call
+
 
 **📊 Dashboard Features**
 
@@ -54,6 +57,8 @@ Female vs Male Callers (demographic split)
 
 Representative filter → enables drill-down by employee
 
+
+
 **⚙️ Tools & Techniques**
 
 This project demonstrates practical Excel analytics skills:
@@ -68,6 +73,7 @@ Conditional Formatting → highlighted key performance gaps
 
 Interactive Dashboard Design → combined visuals, KPIs, and slicers for user-friendly reporting
 
+
 **🚀 Key Insights**
 
 📈 Peak call volume was observed in March (31 calls).
@@ -80,6 +86,7 @@ Interactive Dashboard Design → combined visuals, KPIs, and slicers for user-fr
 
 📊 Monday to Friday call volumes were consistent, but Saturday had the lowest activity.
 
+
 **📸 Dashboard Snapshot**
 
 Here’s a preview of the final dashboard:
@@ -87,6 +94,7 @@ Here’s a preview of the final dashboard:
 
 
 (If the image doesn’t load, open the /images/ folder in this repo.)
+
 
 **👤 Author**
 
