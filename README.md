@@ -99,8 +99,6 @@ Here’s a preview of the final dashboard:
 
 **👤 Author**
 
-**Pawan**
-
-📧 Pawanya28@gmail.com
-
-🔗 www.linkedin.com/in/pawan-yadav-b59826383
+👨‍💻 Created by **Pawan**  
+📧 Email:pawanya28@gmail.com
+🔗 LinkedIn Profile(www.linkedin.com/in/pawan-yadav-b59826383) 
