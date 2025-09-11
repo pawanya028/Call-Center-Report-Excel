@@ -100,7 +100,4 @@ Here’s a preview of the final dashboard:
 **👤 Author**
 
 👨‍💻 Created by **Pawan**  
-
-📧 Email:pawanya28@gmail.com
-
-🔗 [LinkedIn Profile](www.linkedin.com/in/pawan-yadav-b59826383) 
+📧 Email:[ pawanya28@gmail.com ]-🔗 [LinkedIn Profile](www.linkedin.com/in/pawan-yadav-b59826383) 
